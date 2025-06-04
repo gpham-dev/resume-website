@@ -38,17 +38,18 @@ function Experience() {
         <p className="indented">02/2022 - Present</p>
         <ul className="indented">
           <li>Currently possess an active Secret Security Clearance.</li>
+          <li>Developed and integrated guidance and navigation algorithms for a next-generation hypersonic interceptor under the GPI program</li>
+          <li>Modeled 6-DOF interceptor dynamics and implemented trajectory simulations to support mission-level performance analysis.</li>
+          <li>Conducted trade studies and Monte Carlo simulations to evaluate GNC robustness against threat uncertainties and environmental disturbances.</li>
+          <li>Collaborated with systems, propulsion, and seeker teams to align GNC design with overall missile architecture and mission objectives.</li>
           <li>Developed and implemented robust and optimal control algorithms for autopilot systems.</li>
-          <li>Proficient in Monte Carlo Analysis for system reliability assessment.</li>
           <li>Experienced in 3DOF and 6DOF simulation environments.</li>
           <li>Utilized C++, MATLAB, and Python for GNC algorithm development and verification, maintaining high code quality and standards</li>
-          <li>Worked on various aerospace projects, including spacecraft design and mission planning, with a focus on advanced technology integration and system performance evaluation</li>
           <li>Implemented automated testing frameworks, resulting in a 30% reduction in error rates.</li>
           <li>Familiarity with version control systems like Git and Bitbucket and agile methodologies like Jira for collaborative software development and source control management.</li>
           <li>Collaborated across interdisciplinary teams to integrate new guidance and control algorithms effectively into vehicle systems.</li>
           <li>Analyzed and optimized GNC algorithms and simulations, resulting in improved accuracy and reliability of aerospace systems.</li>
           <li>Developed Python scripts for automated data analysis and solution modernization, significantly reducing analysis time by 50% and enhancing workflow efficiency.</li>
-          <li>Contributed to the integration of new technologies and methodologies, supporting continuous improvement and innovation within the team.</li>
         </ul>
       </div>
       <div className="indented-section">
