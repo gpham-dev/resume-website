@@ -60,6 +60,8 @@ function Experience() {
           <li>Used CAD, Critical Mass software, and drawings to create accurate mass models.</li>
           <li>Developed detailed assessments of mass, center of gravity, moment, and product of inertia at the piece part level.</li>
           <li>Facilitated effective communication and data exchange among cross-functional teams.</li>
+          <li>Managed mass properties databases and developed weight tracking models for multi-stage launch vehicle systems.</li>
+          <li>Performed mass properties analysis in accordance with SAWE RP A-3 and NASA/DoD mass properties standards to ensure compliance with customer and program requirements.</li>
       </ul>
       </div>
       {/* U.S. Army National Guard */}
