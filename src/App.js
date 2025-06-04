@@ -88,6 +88,8 @@ function Skills() {
       <div className="skills-category">
         <h3><i className="fas fa-space-shuttle"></i> Aerospace Skills</h3>
         <div className="skills">
+          <span className="skill">Hypersonic Missile Systems</span>
+          <span className="skill">Interceptor Design</span>
           <span className="skill">Trajectory Optimization</span>
           <span className="skill">Control Systems</span>
           <span className="skill">Autopilot Development</span>
@@ -107,7 +109,7 @@ function Skills() {
           <span className="skill">Automated Testing & Verification</span>
           <span className="skill">Git & Bitbucket</span>
           <span className="skill">Agile Methodologies</span>
-          <span className="skill">Launch Vehicle Performance Analysis</span>
+          <span className="skill">Launch Vehicles Performance Analysis</span>
           <span className="skill">Systems Engineering & Integration</span>
           <span className="skill">Spacecraft Design</span>
         </div>
